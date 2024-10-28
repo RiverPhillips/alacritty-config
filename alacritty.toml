@@ -1,0 +1,25 @@
+
+[font.bold]
+family = "JetBrainsMono Nerd Font"
+style = "Bold"
+
+[font.italic]
+family = "JetBrainsMono Nerd Font"
+style = "Italic"
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+style = "Regular"
+
+[[keyboard.bindings]]
+key = "w"
+mods = "Command"
+action = "None"
+
+[env]
+term = "xterm-256color"
+
+[general]
+import = [
+	"/Users/river/.config/alacritty/themes/tokyonight-day.toml"
+]
